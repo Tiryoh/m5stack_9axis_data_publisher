@@ -1,5 +1,10 @@
-// Copyright (c) 2018 katsumin
+// Copyright (c) 2018 Tiryoh
 // Licensed under the MIT license.
+// https://tiryoh.mit-license.org
+
+// This code is based on Angle3DMonitor,
+// which is licensed under the MIT license.
+// Copyright (c) 2018 katsumin
 // https://github.com/katsumin/Angle3DMonitor
 
 #define MPU9250_INSDE
