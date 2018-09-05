@@ -1,6 +1,6 @@
 // Copyright (c) 2018 Tiryoh
 // Licensed under the MIT license.
-// https://tiryoh.mit-license.org
+// https://tiryoh.mit-license.org/2018
 
 // This code is based on Angle3DMonitor,
 // which is licensed under the MIT license.
