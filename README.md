@@ -11,9 +11,13 @@
 
 ## Usage
 
+Connect M5Stack to PC with USB-C cable, and run:
+
 ```
 roslaunch rt_usb_9axis_sensor rt_usb_9axis_sensor.launch
 ```
+
+[![Image from Gyazo](https://i.gyazo.com/bdf5c1ed2495e31a79371ea9a408f942.gif)](https://gyazo.com/bdf5c1ed2495e31a79371ea9a408f942)
 
 ## Known Errors
 
