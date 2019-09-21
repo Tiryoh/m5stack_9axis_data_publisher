@@ -7,8 +7,9 @@
 // Copyright (c) 2018 katsumin
 // https://github.com/katsumin/Angle3DMonitor
 
-#define MPU9250_INSDE
-#include <M5Stack.h>
+#include <M5Stack.h> // tested on 0.2.9
+#include "utility/MPU9250.h"
+#include "utility/quaternionFilters.h"
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLEUtils.h>
